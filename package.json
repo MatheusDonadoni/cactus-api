@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
+  "name": "cactus-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint:prettier:check": "prettier --check .",
+    "lint:prettier:fix": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
